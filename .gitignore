@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 # Data
-'data/'
+data/
 
 # MISC
-'.DS_Store'
+.DS_Store
